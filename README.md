@@ -16,3 +16,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelAR098&show_icons=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAR098&layout=compact&theme=github_dark" />
 </div>
+
+---
+
+### 📫 Contato
+
+Você pode falar comigo por qualquer uma dessas plataformas:
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelarcanjomartinsilva@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/miguel_ar098)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguel_arcanjo098)
