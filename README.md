@@ -13,8 +13,8 @@
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelAR098&show_icons=true&theme=shadow_red" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAR098&layout=compact&theme=shadow_red" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelAR098&show_icons=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAR098&layout=compact&theme=algolia" />
 </div>
 
 ---
