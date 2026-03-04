@@ -13,7 +13,7 @@
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-    [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=MiguelAR098&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=MiguelAR098&show_icons=true&theme=radical)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAR098)](https://github.com/MiguelAR098/github-readme-stats)
 </div>
 
 ---
