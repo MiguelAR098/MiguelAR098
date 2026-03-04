@@ -25,7 +25,11 @@
 > email      -> miguelarcanjomartinsilva@gmail.com
 ```
 <p align="center"> <a href="https://instagram.com/miguel.arcanj098" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=gray" /> </a> <a href="mailto:miguelarcanjomartinsilva@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=gray" /> </a> <a href="https://discord.com/users/miguel_ar098" target="_blank"> <img src="https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=gray" /> </a> </p>
-├──📂 About me
+
+
+## ├──📂 About me
+
+```yaml
 name: Miguel
 stack: Front-End Developer in progress
 location: Brasil
@@ -36,7 +40,10 @@ learning:
 goal:
   - Become a Full Stack Developer
   - Build modern and responsive interfaces
-├──📂 Technologies I'm Learning
+```
+
+## ├──📂 Technologies I'm Learning
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=gray"/> <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=gray"/> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=gray"/> </p>
-├──📂 Activity
+
+## ├──📂 Activity
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MiguelAR098&show_icons=true&theme=dark&bg_color=0d1117&title_color=808080&text_color=808080&icon_color=808080&border_color=1f1f1f" /> </div> ```
