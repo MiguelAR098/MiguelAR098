@@ -14,8 +14,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:000000&height=60&section=header&width=100"/> 
 </div>
 
----
-
 ## ├──📂 Links
 
 ```bash
