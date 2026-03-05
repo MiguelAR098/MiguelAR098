@@ -39,6 +39,7 @@ goal: Become a Full Stack Developer
 ```
 
 ## ├── Technologies I'm Learning
+
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=gray"/>
 <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=gray"/>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=gray"/>
@@ -47,6 +48,7 @@ goal: Become a Full Stack Developer
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=gray"/> </p>
 
 ## ├── Activity
+
 <div align="center"> <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=MiguelAR098&show_icons=true&theme=dark&icon_color=808080&border_color=1f1f1f">
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=MiguelAR098&theme=dark&layout=compact&border_color=1f1f1f&langs_count=6">
 </div>
