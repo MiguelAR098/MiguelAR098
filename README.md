@@ -4,6 +4,10 @@
   I'm Miguel!
 </h1>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=711EF7&width=435&lines=Software+Development+Student" alt="Typing SVG" /></a>
+</div>
+
 <div align="center"> 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%"> 
 </div> 
