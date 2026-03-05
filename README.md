@@ -51,6 +51,12 @@ goal: Become a Full Stack Developer
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=MiguelAR098&theme=dark&layout=compact&border_color=1f1f1f&langs_count=6">
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelAR098/MiguelAR098/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelAR098/MiguelAR098/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MiguelAR098/MiguelAR098/output/github-snake.svg" />
+</picture>
+
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:000000&height=60&section=footer&width=100"/> 
 </div>
