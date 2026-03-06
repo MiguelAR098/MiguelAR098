@@ -25,9 +25,12 @@
 
 > instagram  -> @miguel.arcanj098
 > discord    -> miguel_ar098
+> linkedin   -> miguel-arcanjo
 > email      -> miguelarcanjomartinsilva@gmail.com
 ```
-<p> <a href="https://instagram.com/miguel.arcanj098" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=gray" /> </a> <a href="mailto:miguelarcanjomartinsilva@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=gray" /> </a> <a href="https://discord.com/users/miguel_ar098" target="_blank"> <img src="https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=gray" /> </a> </p>
+<p> <a href="https://instagram.com/miguel.arcanj098" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=gray" /> </a> <a href="mailto:miguelarcanjomartinsilva@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=gray" /> </a> <a href="https://discord.com/users/miguel_ar098" target="_blank"> <img src="https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=gray" /> </a> <a href="https://www.linkedin.com/in/miguel-arcanjo" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=gray" />
+</a> </p>
 
 ## ├── About me
 
