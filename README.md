@@ -37,12 +37,12 @@
 ```yaml
 name: Miguel  
 stack: Full Stack Developer in progress  
-location: Brasil  
-
-learning: HTML5 | CSS3 | JavaScript | Python | Java | MySQL  
+location: Brasil    
 
 goal: Become a Full Stack Developer  
       Build modern and responsive systems
+
+I like music and technology :)
 ```
 
 ## ├── Technologies I'm Learning
@@ -52,6 +52,7 @@ goal: Become a Full Stack Developer
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=gray"/>
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=gray"/>
 <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=gray"/>
+<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=gray"/>
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=gray"/> </p>
 
 ## ├── Activity
