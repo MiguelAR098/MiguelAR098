@@ -42,7 +42,7 @@ location: Brasil
 goal: Become a Full Stack Developer  
       Build modern and responsive systems
 
-I like music and technology :)
+I like music and technology ←⁠_⁠←
 ```
 
 ## ├── Technologies I'm Learning
