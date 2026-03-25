@@ -53,6 +53,7 @@ I like music and technology ←⁠_⁠←
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=gray"/>
 <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=gray"/>
 <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=gray"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=gray"/>
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=gray"/> </p>
 
 ## ├── Activity
