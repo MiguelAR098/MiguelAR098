@@ -1,8 +1,4 @@
-<h1 align="center">
-  Hi! 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35"/>
-  I'm Miguel!
-</h1>
+<div align="center"><h1>Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" style="vertical-align: middle;"> I'm Miguel!</h1></div>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=711EF7&width=435&lines=Software+Development+Student" alt="Typing SVG" /></a>
