@@ -44,13 +44,15 @@ I like music and technology ←⁠_⁠←
 ## ├── Technologies I'm Learning
 
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=gray"/>
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=gray"/>
+<img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css&logoColor=gray"/>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=gray"/>
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=gray"/>
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=gray"/>
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=gray"/>
 <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=gray"/>
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=gray"/>
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=gray"/>
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=gray"/> </p>
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=gray"/>
+<img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=gray"/> </p>
 
 ## ├── Activity
 
