@@ -61,8 +61,9 @@ I like music and technology ←⁠_⁠←
 
 ## ├── Activity
 
-<div align="center"> <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=MiguelAR098&show_icons=true&theme=dark&icon_color=808080&border_color=1f1f1f">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=MiguelAR098&theme=dark&layout=compact&border_color=1f1f1f&langs_count=6">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=MiguelAR098&show_icons=true&theme=dark&icon_color=808080&border_color=1f1f1f"/>
+  <img height="180em" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=MiguelAR098&theme=dark&layout=compact&border_color=1f1f1f&langs_count=6"/>
 </div>
 
 <picture>
